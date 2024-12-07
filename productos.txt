@@ -1,0 +1,10 @@
+1, Nevera, Electrodomestico, 1.800, 34
+2, Televisor, Electrodomuestico, 1.000, 90
+3, Portatil, Tecnologia, 900.000, 20
+4, Escritorio, Muebles, 350.500, 50
+5, Comedor, Muebles, 400.000, 80
+6, Tableta, Tecnologia, 200.000, 200
+7, Drone, Tecnologia, 350.500,10	
+8, Cama, Muebles, 650.500, 43
+9, Plantas, Jardineria, 45.000, 35
+10,Jeans,Hogar,100.000,300

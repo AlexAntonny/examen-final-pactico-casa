@@ -1,0 +1,11 @@
+1, Nevera, Electrodomestico, 1.8, 34
+2, Televisor, Electrodomuestico, 1.0, 90
+3, Portatil, Tecnologia, 900.0, 20
+4, Escritorio, Muebles, 350.5, 50
+5, Comedor, Muebles, 400.0, 80
+6, Tableta, Tecnologia, 200.0, 200
+7, Drone, Tecnologia, 350.5, 10
+8, Cama, Muebles, 650.5, 43
+9, Plantas, Jardineria, 45.0, 35
+10, Jeans, Hogar, 100.0, 300
+Valor Total Inventario: 170727.7
